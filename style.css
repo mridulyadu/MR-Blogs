@@ -131,6 +131,7 @@ body.down .header-default.clone {
 }
 
 .navbar-brand {
+    width: 140px;
     padding-top: 0;
     padding-bottom: 0;
     margin-right: 0;
@@ -244,6 +245,7 @@ body.down .header-default.clone {
 }
 
 .header-right .social-icons {
+    size: 30px;
     display: inline-block;
 }
 
